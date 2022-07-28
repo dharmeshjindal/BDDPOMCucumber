@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import base.TestBase;
 
 public class HomePage extends TestBase{
-	
+	//Modified by Dharmesh Jindal
 	
 	@FindBy(name="search")
 	WebElement searchBox;
