@@ -8,6 +8,7 @@ import base.TestBase;
 
 public class HomePage extends TestBase{
 	//Modified by Dharmesh Jindal for the first time
+	//New Change done
 	
 	@FindBy(name="search")
 	WebElement searchBox;
